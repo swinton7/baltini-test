@@ -9,9 +9,9 @@
 - run `python load_data.py` to load the generated data
 - Use the `result_query.sql` to generate result
 
-The result_query.sql should produce something similar to this
-![alt text](Screenshot from 2024-02-27 14-28-50.png)
-
+The result_query.sql should produce something similar to this  
+![alt text](result_query_sql.png)  
+  
 I temporarily used this date `2023-10-16` for reproducibility
 
 python=3.12
